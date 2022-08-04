@@ -1,0 +1,15 @@
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\bin\Debug\net6.0\lap08_C_shap.exe
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\bin\Debug\net6.0\lap08_C_shap.deps.json
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\bin\Debug\net6.0\lap08_C_shap.runtimeconfig.json
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\bin\Debug\net6.0\lap08_C_shap.dll
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\bin\Debug\net6.0\lap08_C_shap.pdb
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.csproj.AssemblyReference.cache
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.AssemblyInfoInputs.cache
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.AssemblyInfo.cs
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.csproj.CoreCompileInputs.cache
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.dll
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\refint\lap08_C_shap.dll
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.pdb
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\lap08_C_shap.genruntimeconfig.cache
+C:\Users\tuan ngoc\source\repos\lap08_C_shap\lap08_C_shap\obj\Debug\net6.0\ref\lap08_C_shap.dll
